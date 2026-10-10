@@ -1,0 +1,14 @@
+Panda1
+End of round: For each pair of dice, gain 1 coin.@End of round: For each three-of-a-kind in the same area, gain 2 VP.@End of round: For each four-of-a-kind in the same area, gain 2 VP.@Roll phase: After rolling the dice, you can pay 5 coins to choose 1 area, this round, only you can effect this area.
+Snake2
+Start of Round: Gain 1 coin for every vp you have.@End of round: Gain coins equal to the number that appears most often in all areas.@if they appear tie in every area, gain 1 vp.@Special Victory Condition: Have 45 coins.
+Fox3
+End of round: Gain 2 coin for each die whose value was changed.@End of round: Gain 1 vp for each 2 dice whose value was changed.@Auction phase: You can pay 3 coins, choose 1 die and change it to any value.
+Rabbit4
+Roll phase: After rolling the dice, choose 1 area.@End of round: Gain 1 coin for each die showing 4,5,6 which is not in the chosen area. @End of round: Gain 1 VP for each die showing 5,6 in the chosen area. 
+Rat5
+Roll phase: After rolling the dice, choose 1 area.@Start of Round: Gain 2 coin. @End of Round: Gain coins equal to the largest difference between 2 dice in the chosen area.@Auction phase: If you are the only one bid for highest, gain 2 vp, gain 1 coin.
+Frog7
+End of Round: For each 5-length straight, gain 1 vp.@End of Round: For each 3-length straight, gain 2 coins.@Auction phase: You can pay X coins, roll X+1 dice and put them in front of you. They doesn't belong to any area,  only you can use it.
+Eagle8
+Start of round: You predict how many vp is going to be gained by everyone else this round.@End of round: When end of round phase end, base on the different of the predict:@0: gain 2 vp, gain 6 coins.@1: gain 1 vp, gain 4 coins.@2: gain 3 coins. @ Gain extra 1 vp if you predict successfull this round and last round.

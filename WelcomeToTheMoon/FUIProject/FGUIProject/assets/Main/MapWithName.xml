@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1483,1674">
+  <displayList>
+    <component id="n0_i6rg" name="map" src="jx0d0" fileName="Map1.xml" xy="0,183"/>
+    <text id="n1_i6rg" name="txtName" xy="18,25" size="1058,142" fontSize="62" vAlign="middle" vars="true" autoSize="none" text="Name: {name=777}"/>
+  </displayList>
+</component>

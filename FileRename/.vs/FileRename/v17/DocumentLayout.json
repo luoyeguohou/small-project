@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\FileRename\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E118C391-847E-C27A-D2D2-39CB96820B43}|Assembly-CSharp.csproj|c:\\projects\\filerename\\assets\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E118C391-847E-C27A-D2D2-39CB96820B43}|Assembly-CSharp.csproj|solutionrelative:assets\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dealer.cs",
+              "DocumentMoniker": "C:\\projects\\FileRename\\Assets\\Dealer.cs",
+              "RelativeDocumentMoniker": "Assets\\Dealer.cs",
+              "ToolTip": "C:\\projects\\FileRename\\Assets\\Dealer.cs",
+              "RelativeToolTip": "Assets\\Dealer.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAjwG0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:58:15.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

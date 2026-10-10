@@ -1,0 +1,18 @@
+﻿Relic $5
+If there are 3 dice showing 6, gain 2 vp.
+Relic $2
+End of round: you can put 3 coins on this card. When there is 6 coins,discard all the coins to get 1 vp.
+Relic $2
+End of round: you can put 3 coins on this card. When there is 6 coins,discard all the coins to get 1 vp.
+Relic $3
+Start of round: gain 1 coin. 
+Relic $3
+Start of round: gain 1 coin.
+C4 Small Hand[7]
+Choose 1 die: add it by 1.
+C4 Magic Hand[0]
+Choose 1 die and pay 2 coins: changes it to any other value.
+Magic Hand[7]
+Choose 1 die: changes it to any other value.
+Magic Hand[0]
+Choose 1 die: changes it to any other value.

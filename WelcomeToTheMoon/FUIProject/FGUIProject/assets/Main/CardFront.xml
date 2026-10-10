@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="99,155">
+  <controller name="Type" pages="0,,1,,2,,3,,4,,5," selected="5"/>
+  <displayList>
+    <loader id="n19_pvwq" name="n19" xy="0,0" size="99,155" url="ui://ahvpgb8npvwq4d" align="center" vAlign="middle" fill="scaleNoBorder">
+      <gearIcon controller="Type" pages="0,1,2,3,4,5" values="ui://ahvpgb8npvwq4c|ui://ahvpgb8npvwq4g|ui://ahvpgb8npvwq4f|ui://ahvpgb8npvwq4e|ui://ahvpgb8npvwq4b|ui://ahvpgb8npvwq4d"/>
+    </loader>
+  </displayList>
+</component>

@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\TextToImage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69AFFD37-31CB-899A-4BF7-BA579D515DCD}|Assembly-CSharp.csproj|c:\\projects\\texttoimage\\assets\\streamingassets\\inputs\\dicearenatext 1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{69AFFD37-31CB-899A-4BF7-BA579D515DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\streamingassets\\inputs\\dicearenatext 1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AFFD37-31CB-899A-4BF7-BA579D515DCD}|Assembly-CSharp.csproj|C:\\projects\\TextToImage\\assets\\streamingassets\\dicearenatext.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{69AFFD37-31CB-899A-4BF7-BA579D515DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\streamingassets\\dicearenatext.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AFFD37-31CB-899A-4BF7-BA579D515DCD}|Assembly-CSharp.csproj|C:\\projects\\TextToImage\\Assets\\StreamingAssets\\character.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{69AFFD37-31CB-899A-4BF7-BA579D515DCD}|Assembly-CSharp.csproj|solutionrelative:Assets\\StreamingAssets\\character.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\TextToImage\\Assets\\StreamingAssets\\Inputs\\reference.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StreamingAssets\\Inputs\\reference.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\TextToImage\\Assets\\StreamingAssets\\Inputs\\character.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StreamingAssets\\Inputs\\character.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AFFD37-31CB-899A-4BF7-BA579D515DCD}|Assembly-CSharp.csproj|C:\\projects\\TextToImage\\assets\\scripts\\partialscreenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AFFD37-31CB-899A-4BF7-BA579D515DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\partialscreenshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\TextToImage\\Assets\\StreamingAssets\\Inputs\\diceArenaText.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StreamingAssets\\Inputs\\diceArenaText.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\TextToImage\\Assets\\Resources\\resource.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Resources\\resource.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\TextToImage\\Assets\\StreamingAssets\\Inputs\\hero.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StreamingAssets\\Inputs\\hero.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "diceArenaText 1.txt",
+              "DocumentMoniker": "C:\\projects\\TextToImage\\Assets\\StreamingAssets\\Inputs\\diceArenaText 1.txt",
+              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\Inputs\\diceArenaText 1.txt",
+              "ToolTip": "C:\\projects\\TextToImage\\Assets\\StreamingAssets\\Inputs\\diceArenaText 1.txt",
+              "RelativeToolTip": "Assets\\StreamingAssets\\Inputs\\diceArenaText 1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-01T00:10:38.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "diceArenaText.txt",
+              "DocumentMoniker": "C:\\projects\\TextToImage\\Assets\\StreamingAssets\\diceArenaText.txt",
+              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\diceArenaText.txt",
+              "ToolTip": "C:\\projects\\TextToImage\\Assets\\StreamingAssets\\diceArenaText.txt",
+              "RelativeToolTip": "Assets\\StreamingAssets\\diceArenaText.txt",
+              "ViewState": "AQIAAA0BAAAAAAAAAAAAABIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-31T23:24:25.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "character.txt",
+              "DocumentMoniker": "C:\\projects\\TextToImage\\Assets\\StreamingAssets\\character.txt",
+              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\character.txt",
+              "ToolTip": "C:\\projects\\TextToImage\\Assets\\StreamingAssets\\character.txt",
+              "RelativeToolTip": "Assets\\StreamingAssets\\character.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-31T22:57:55.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "reference.txt",
+              "DocumentMoniker": "C:\\projects\\TextToImage\\Assets\\StreamingAssets\\Inputs\\reference.txt",
+              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\Inputs\\reference.txt",
+              "ToolTip": "C:\\projects\\TextToImage\\Assets\\StreamingAssets\\Inputs\\reference.txt",
+              "RelativeToolTip": "Assets\\StreamingAssets\\Inputs\\reference.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-21T01:43:28.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "character.txt",
+              "DocumentMoniker": "C:\\projects\\TextToImage\\Assets\\StreamingAssets\\Inputs\\character.txt",
+              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\Inputs\\character.txt",
+              "ToolTip": "C:\\projects\\TextToImage\\Assets\\StreamingAssets\\Inputs\\character.txt",
+              "RelativeToolTip": "Assets\\StreamingAssets\\Inputs\\character.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-21T01:04:52.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "diceArenaText.txt",
+              "DocumentMoniker": "C:\\projects\\TextToImage\\Assets\\StreamingAssets\\Inputs\\diceArenaText.txt",
+              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\Inputs\\diceArenaText.txt",
+              "ToolTip": "C:\\projects\\TextToImage\\Assets\\StreamingAssets\\Inputs\\diceArenaText.txt",
+              "RelativeToolTip": "Assets\\StreamingAssets\\Inputs\\diceArenaText.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-08T23:05:05.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "hero.txt",
+              "DocumentMoniker": "C:\\projects\\TextToImage\\Assets\\StreamingAssets\\Inputs\\hero.txt",
+              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\Inputs\\hero.txt",
+              "ToolTip": "C:\\projects\\TextToImage\\Assets\\StreamingAssets\\Inputs\\hero.txt",
+              "RelativeToolTip": "Assets\\StreamingAssets\\Inputs\\hero.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-09T07:23:12.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PartialScreenshot.cs",
+              "DocumentMoniker": "C:\\projects\\TextToImage\\Assets\\Scripts\\PartialScreenshot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PartialScreenshot.cs",
+              "ToolTip": "C:\\projects\\TextToImage\\Assets\\Scripts\\PartialScreenshot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PartialScreenshot.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswE0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T06:31:47.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "resource.txt",
+              "DocumentMoniker": "C:\\projects\\TextToImage\\Assets\\Resources\\resource.txt",
+              "RelativeDocumentMoniker": "Assets\\Resources\\resource.txt",
+              "ToolTip": "C:\\projects\\TextToImage\\Assets\\Resources\\resource.txt",
+              "RelativeToolTip": "Assets\\Resources\\resource.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-08T06:52:48.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

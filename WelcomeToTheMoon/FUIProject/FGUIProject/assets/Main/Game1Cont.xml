@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080" overflow="scroll" scroll="both" scrollBarFlags="400">
+  <controller name="playerNum" pages="0,,1,,2,,3,,4,,5," selected="5"/>
+  <displayList>
+    <component id="n0_i6rg" name="map1" src="i6rgd" fileName="MapWithName.xml" xy="2,470" scale="0.6,0.6">
+      <gearDisplay controller="playerNum" pages="0,1,2,3,4,5"/>
+    </component>
+    <component id="n2_i6rg" name="map2" src="i6rgd" fileName="MapWithName.xml" xy="939,470" scale="0.6,0.6" touchable="false">
+      <gearDisplay controller="playerNum" pages="1,2,3,4,5"/>
+    </component>
+    <component id="n3_i6rg" name="map3" src="i6rgd" fileName="MapWithName.xml" xy="1898,470" scale="0.6,0.6" touchable="false">
+      <gearDisplay controller="playerNum" pages="2,3,4,5"/>
+    </component>
+    <component id="n4_i6rg" name="map4" src="i6rgd" fileName="MapWithName.xml" xy="8,1515" scale="0.6,0.6" touchable="false">
+      <gearDisplay controller="playerNum" pages="3,4,5"/>
+    </component>
+    <component id="n5_i6rg" name="map5" src="i6rgd" fileName="MapWithName.xml" xy="945,1515" scale="0.6,0.6" touchable="false">
+      <gearDisplay controller="playerNum" pages="4,5"/>
+    </component>
+    <component id="n6_i6rg" name="map6" src="i6rgd" fileName="MapWithName.xml" xy="1904,1515" scale="0.6,0.6" touchable="false">
+      <gearDisplay controller="playerNum" pages="5"/>
+    </component>
+    <component id="n13_i6rg" name="taskPanel" src="i6rgk" fileName="Task.xml" xy="597,70"/>
+    <text id="n14_pvwq" name="txtSeed" xy="7,31" size="572,111" fontSize="47" vAlign="middle" autoSize="none" text="" input="true" prompt="input seed here......"/>
+    <component id="n15_pvwq" name="btnApplySeed" src="pvwqr" fileName="NormalButton.xml" xy="170,152">
+      <Button title="apply seed"/>
+    </component>
+    <component id="n16_pvwq" name="cardPanel" src="pvwq4i" fileName="CardArea.xml" xy="1328,26"/>
+    <component id="n18_pvwq" name="btnUpload" src="pvwqr" fileName="NormalButton.xml" xy="172,392">
+      <Button title="upload"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="489,498">
+  <displayList>
+    <component id="n16_pvwq" name="btnLastTurn" src="pvwqr" fileName="NormalButton.xml" xy="273,421">
+      <Button title="lastTurn"/>
+    </component>
+    <component id="n17_pvwq" name="btnNextTurn" src="pvwqr" fileName="NormalButton.xml" xy="0,423">
+      <Button title="nextTurn"/>
+    </component>
+    <component id="n19_pvwq" name="cardBack1" src="pvwq4a" fileName="CardBack.xml" xy="46,72"/>
+    <component id="n20_pvwq" name="cardBack2" src="pvwq4a" fileName="CardBack.xml" xy="180,74"/>
+    <component id="n21_pvwq" name="cardBack3" src="pvwq4a" fileName="CardBack.xml" xy="310,76"/>
+    <component id="n23_pvwq" name="cardFront1" src="pvwq4h" fileName="CardFront.xml" xy="42,248"/>
+    <component id="n25_pvwq" name="cardFront2" src="pvwq4h" fileName="CardFront.xml" xy="186,248"/>
+    <component id="n26_pvwq" name="cardFront3" src="pvwq4h" fileName="CardFront.xml" xy="316,248"/>
+    <text id="n27_pvwq" name="txtTurn" xy="48,0" size="340,63" fontSize="47" vars="true" autoSize="none" text="Turn:{turn=1}"/>
+  </displayList>
+</component>

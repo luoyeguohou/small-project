@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ahvpgb8n">
+  <resources>
+    <component id="jx0d0" name="Map1.xml" path="/"/>
+    <image id="i6rg1" name="map1.png" path="/"/>
+    <image id="i6rg2" name="circle.png" path="/"/>
+    <image id="i6rg3" name="circlefull.png" path="/"/>
+    <image id="i6rg4" name="elec.png" path="/"/>
+    <image id="i6rg5" name="emp.png" path="/"/>
+    <image id="i6rg6" name="icon.png" path="/"/>
+    <component id="i6rg7" name="Game1.xml" path="/" exported="true"/>
+    <component id="i6rg8" name="BtnChangeIcon2.xml" path="/"/>
+    <component id="i6rg9" name="Emp.xml" path="/"/>
+    <component id="i6rga" name="BtnChangeIcon3.xml" path="/"/>
+    <component id="i6rgc" name="Game1Cont.xml" path="/"/>
+    <component id="i6rgd" name="MapWithName.xml" path="/"/>
+    <image id="i6rge" name="taskA1.png" path="/Task/"/>
+    <image id="i6rgf" name="taskA2.png" path="/Task/"/>
+    <image id="i6rgg" name="taskB1.png" path="/Task/"/>
+    <image id="i6rgh" name="taskB2.png" path="/Task/"/>
+    <image id="i6rgi" name="taskC1.png" path="/Task/"/>
+    <image id="i6rgj" name="taskC2.png" path="/Task/"/>
+    <component id="i6rgk" name="Task.xml" path="/"/>
+    <image id="pvwql" name="taskFC1.png" path="/Task/"/>
+    <image id="pvwqm" name="taskFC2.png" path="/Task/"/>
+    <image id="pvwqn" name="taskFB1.png" path="/Task/"/>
+    <image id="pvwqo" name="taskFA1.png" path="/Task/"/>
+    <image id="pvwqp" name="taskFA2.png" path="/Task/"/>
+    <image id="pvwqq" name="taskFB2.png" path="/Task/"/>
+    <component id="pvwqr" name="NormalButton.xml" path="/"/>
+    <image id="pvwq2j" name="c01.png" path="/CardBack/"/>
+    <image id="pvwq2k" name="c34.png" path="/CardBack/"/>
+    <image id="pvwq2l" name="c35.png" path="/CardBack/"/>
+    <image id="pvwq2m" name="c36.png" path="/CardBack/"/>
+    <image id="pvwq2n" name="c37.png" path="/CardBack/"/>
+    <image id="pvwq2o" name="c38.png" path="/CardBack/"/>
+    <image id="pvwq2p" name="c39.png" path="/CardBack/"/>
+    <image id="pvwq2q" name="c40.png" path="/CardBack/"/>
+    <image id="pvwq2r" name="c41.png" path="/CardBack/"/>
+    <image id="pvwq2s" name="c42.png" path="/CardBack/"/>
+    <image id="pvwq2t" name="c43.png" path="/CardBack/"/>
+    <image id="pvwq2u" name="c44.png" path="/CardBack/"/>
+    <image id="pvwq2v" name="c45.png" path="/CardBack/"/>
+    <image id="pvwq2w" name="c46.png" path="/CardBack/"/>
+    <image id="pvwq2x" name="c33.png" path="/CardBack/"/>
+    <image id="pvwq2y" name="c47.png" path="/CardBack/"/>
+    <image id="pvwq2z" name="c49.png" path="/CardBack/"/>
+    <image id="pvwq30" name="c50.png" path="/CardBack/"/>
+    <image id="pvwq31" name="c51.png" path="/CardBack/"/>
+    <image id="pvwq32" name="c52.png" path="/CardBack/"/>
+    <image id="pvwq33" name="c53.png" path="/CardBack/"/>
+    <image id="pvwq34" name="c54.png" path="/CardBack/"/>
+    <image id="pvwq35" name="c55.png" path="/CardBack/"/>
+    <image id="pvwq36" name="c56.png" path="/CardBack/"/>
+    <image id="pvwq37" name="c57.png" path="/CardBack/"/>
+    <image id="pvwq38" name="c58.png" path="/CardBack/"/>
+    <image id="pvwq39" name="c59.png" path="/CardBack/"/>
+    <image id="pvwq3a" name="c60.png" path="/CardBack/"/>
+    <image id="pvwq3b" name="c61.png" path="/CardBack/"/>
+    <image id="pvwq3c" name="c48.png" path="/CardBack/"/>
+    <image id="pvwq3d" name="c62.png" path="/CardBack/"/>
+    <image id="pvwq3e" name="c32.png" path="/CardBack/"/>
+    <image id="pvwq3f" name="c30.png" path="/CardBack/"/>
+    <image id="pvwq3g" name="c02.png" path="/CardBack/"/>
+    <image id="pvwq3h" name="c03.png" path="/CardBack/"/>
+    <image id="pvwq3i" name="c04.png" path="/CardBack/"/>
+    <image id="pvwq3j" name="c05.png" path="/CardBack/"/>
+    <image id="pvwq3k" name="c06.png" path="/CardBack/"/>
+    <image id="pvwq3l" name="c07.png" path="/CardBack/"/>
+    <image id="pvwq3m" name="c08.png" path="/CardBack/"/>
+    <image id="pvwq3n" name="c09.png" path="/CardBack/"/>
+    <image id="pvwq3o" name="c10.png" path="/CardBack/"/>
+    <image id="pvwq3p" name="c11.png" path="/CardBack/"/>
+    <image id="pvwq3q" name="c12.png" path="/CardBack/"/>
+    <image id="pvwq3r" name="c13.png" path="/CardBack/"/>
+    <image id="pvwq3s" name="c14.png" path="/CardBack/"/>
+    <image id="pvwq3t" name="c31.png" path="/CardBack/"/>
+    <image id="pvwq3u" name="c15.png" path="/CardBack/"/>
+    <image id="pvwq3v" name="c17.png" path="/CardBack/"/>
+    <image id="pvwq3w" name="c18.png" path="/CardBack/"/>
+    <image id="pvwq3x" name="c19.png" path="/CardBack/"/>
+    <image id="pvwq3y" name="c20.png" path="/CardBack/"/>
+    <image id="pvwq3z" name="c21.png" path="/CardBack/"/>
+    <image id="pvwq40" name="c22.png" path="/CardBack/"/>
+    <image id="pvwq41" name="c23.png" path="/CardBack/"/>
+    <image id="pvwq42" name="c24.png" path="/CardBack/"/>
+    <image id="pvwq43" name="c25.png" path="/CardBack/"/>
+    <image id="pvwq44" name="c26.png" path="/CardBack/"/>
+    <image id="pvwq45" name="c27.png" path="/CardBack/"/>
+    <image id="pvwq46" name="c28.png" path="/CardBack/"/>
+    <image id="pvwq47" name="c29.png" path="/CardBack/"/>
+    <image id="pvwq48" name="c16.png" path="/CardBack/"/>
+    <image id="pvwq49" name="c63.png" path="/CardBack/"/>
+    <component id="pvwq4a" name="CardBack.xml" path="/"/>
+    <image id="pvwq4b" name="TimeTable.png" path="/CardFront/"/>
+    <image id="pvwq4c" name="Astronaut.png" path="/CardFront/"/>
+    <image id="pvwq4d" name="Water.png" path="/CardFront/"/>
+    <image id="pvwq4e" name="Robot.png" path="/CardFront/"/>
+    <image id="pvwq4f" name="Plant.png" path="/CardFront/"/>
+    <image id="pvwq4g" name="Energy.png" path="/CardFront/"/>
+    <component id="pvwq4h" name="CardFront.xml" path="/"/>
+    <component id="pvwq4i" name="CardArea.xml" path="/"/>
+    <font id="ug2u4j" name="Old Originals.ttf" path="/Fonts/" renderMode="" samplePointSize="16"/>
+    <font id="ug2u4k" name="Hand Originals.ttf" path="/Fonts/" renderMode="" samplePointSize="16"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>

@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\WelcomeToTheMoon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|C:\\projects\\WelcomeToTheMoon\\assets\\scripts\\public\\netmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\public\\netmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFF21FDB-5C4A-8462-7499-7C70592F03CD}|Assembly-CSharp.Player.csproj|c:\\projects\\welcometothemoon\\assets\\scripts\\ui\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFF21FDB-5C4A-8462-7499-7C70592F03CD}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\ui\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|C:\\projects\\WelcomeToTheMoon\\assets\\scripts\\struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|c:\\projects\\welcometothemoon\\assets\\scripts\\cardstrcut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cardstrcut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|c:\\projects\\welcometothemoon\\assets\\scripts\\ui\\map1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\map1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|C:\\projects\\WelcomeToTheMoon\\assets\\scripts\\ui\\mapwithname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mapwithname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|C:\\projects\\WelcomeToTheMoon\\assets\\scripts\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B59BED0-EDBE-9653-B64C-F818B9E72DE7}|FairyGUI.csproj|C:\\projects\\WelcomeToTheMoon\\assets\\plugins\\fairygui\\scripts\\core\\displayobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B59BED0-EDBE-9653-B64C-F818B9E72DE7}|FairyGUI.csproj|solutionrelative:assets\\plugins\\fairygui\\scripts\\core\\displayobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|C:\\projects\\WelcomeToTheMoon\\assets\\scripts\\public\\btnenterroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\public\\btnenterroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|C:\\projects\\WelcomeToTheMoon\\assets\\scripts\\public\\btnconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\public\\btnconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\WelcomeToTheMoon\\Assets\\UI\\Main\\Game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UI\\Main\\Game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|C:\\projects\\WelcomeToTheMoon\\assets\\resources\\ui\\main\\mapwithname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\ui\\main\\mapwithname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|C:\\projects\\WelcomeToTheMoon\\assets\\scripts\\ui\\cardarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\cardarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|C:\\projects\\WelcomeToTheMoon\\assets\\scripts\\ui\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B59BED0-EDBE-9653-B64C-F818B9E72DE7}|FairyGUI.csproj|C:\\projects\\WelcomeToTheMoon\\assets\\plugins\\fairygui\\scripts\\ui\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B59BED0-EDBE-9653-B64C-F818B9E72DE7}|FairyGUI.csproj|solutionrelative:assets\\plugins\\fairygui\\scripts\\ui\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|C:\\projects\\WelcomeToTheMoon\\assets\\scripts\\uistarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uistarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B59BED0-EDBE-9653-B64C-F818B9E72DE7}|FairyGUI.csproj|C:\\projects\\WelcomeToTheMoon\\assets\\plugins\\fairygui\\scripts\\ui\\uipackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B59BED0-EDBE-9653-B64C-F818B9E72DE7}|FairyGUI.csproj|solutionrelative:assets\\plugins\\fairygui\\scripts\\ui\\uipackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|C:\\projects\\WelcomeToTheMoon\\assets\\scripts\\game\\changeiconbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\changeiconbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|C:\\projects\\WelcomeToTheMoon\\assets\\scripts\\game\\cardshuffler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380A6196-E39F-5E9A-A302-15E867EBDD33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\cardshuffler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\WelcomeToTheMoon\\Assets\\UI\\Main\\CardArea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UI\\Main\\CardArea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\WelcomeToTheMoon\\Assets\\UI\\Main\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UI\\Main\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Struct.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\Struct.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Struct.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\Struct.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Struct.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowEgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:17:33.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\UI\\Game1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Game1.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\UI\\Game1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Game1.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAewDcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:16:05.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardStrcut.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\CardStrcut.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardStrcut.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\CardStrcut.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardStrcut.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:32:57.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BtnEnterRoom.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\Public\\BtnEnterRoom.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Public\\BtnEnterRoom.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\Public\\BtnEnterRoom.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Public\\BtnEnterRoom.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowBYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:18:18.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\Message.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Message.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\Message.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Message.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:39:41.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapWithName.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\UI\\MapWithName.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MapWithName.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\UI\\MapWithName.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MapWithName.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAnwBkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:09:26.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CardArea.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\UI\\CardArea.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\CardArea.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\UI\\CardArea.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\CardArea.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAMwBgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:08:46.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\Plugins\\FairyGui\\Scripts\\UI\\Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\FairyGui\\Scripts\\UI\\Controller.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\Plugins\\FairyGui\\Scripts\\UI\\Controller.cs",
+              "RelativeToolTip": "Assets\\Plugins\\FairyGui\\Scripts\\UI\\Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:10:10.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\UI\\Task.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Task.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\UI\\Task.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:07:56.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UIStarter.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\UIStarter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIStarter.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\UIStarter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIStarter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:06:44.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UIPackage.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\Plugins\\FairyGui\\Scripts\\UI\\UIPackage.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\FairyGui\\Scripts\\UI\\UIPackage.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\Plugins\\FairyGui\\Scripts\\UI\\UIPackage.cs",
+              "RelativeToolTip": "Assets\\Plugins\\FairyGui\\Scripts\\UI\\UIPackage.cs",
+              "ViewState": "AQIAAKcBAAAAAAAAAIA8wLIBAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:54:09.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChangeIconButton.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\Game\\ChangeIconButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\ChangeIconButton.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\Game\\ChangeIconButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\ChangeIconButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:18:13.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CardShuffler.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\Game\\CardShuffler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\CardShuffler.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\Game\\CardShuffler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\CardShuffler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:18:11.701Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 373,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DisplayObject.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\Plugins\\FairyGui\\Scripts\\Core\\DisplayObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\FairyGui\\Scripts\\Core\\DisplayObject.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\Plugins\\FairyGui\\Scripts\\Core\\DisplayObject.cs",
+              "RelativeToolTip": "Assets\\Plugins\\FairyGui\\Scripts\\Core\\DisplayObject.cs",
+              "ViewState": "AQIAAJMGAAAAAAAAAAAvwJoGAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T00:04:35.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Map1.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\UI\\Map1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Map1.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\UI\\Map1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Map1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:10:16.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetManager.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\Public\\NetManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Public\\NetManager.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\Public\\NetManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Public\\NetManager.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAawIkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T01:53:43.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BtnConnect.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\Public\\BtnConnect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Public\\BtnConnect.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\Scripts\\Public\\BtnConnect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Public\\BtnConnect.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAArwAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T00:06:40.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\UI\\Main\\Game1.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\Main\\Game1.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\UI\\Main\\Game1.cs",
+              "RelativeToolTip": "Assets\\UI\\Main\\Game1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:16:18.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MapWithName.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\Resources\\UI\\Main\\MapWithName.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\UI\\Main\\MapWithName.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\Resources\\UI\\Main\\MapWithName.cs",
+              "RelativeToolTip": "Assets\\Resources\\UI\\Main\\MapWithName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:20:25.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\UI\\Main\\Task.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\Main\\Task.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\UI\\Main\\Task.cs",
+              "RelativeToolTip": "Assets\\UI\\Main\\Task.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:11:17.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CardArea.cs",
+              "DocumentMoniker": "C:\\projects\\WelcomeToTheMoon\\Assets\\UI\\Main\\CardArea.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\Main\\CardArea.cs",
+              "ToolTip": "C:\\projects\\WelcomeToTheMoon\\Assets\\UI\\Main\\CardArea.cs",
+              "RelativeToolTip": "Assets\\UI\\Main\\CardArea.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:14:38.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

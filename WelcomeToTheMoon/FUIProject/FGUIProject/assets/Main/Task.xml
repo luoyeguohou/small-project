@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="678,381">
+  <controller name="task1" pages="7,,8," selected="1"/>
+  <controller name="task2" pages="0,,1," selected="1"/>
+  <controller name="task3" pages="0,,1," selected="1"/>
+  <controller name="finish1" pages="0,,1," selected="1"/>
+  <controller name="finish2" pages="0,,1," selected="1"/>
+  <controller name="finish3" pages="0,,1," selected="1"/>
+  <displayList>
+    <loader id="n14_i6rg" name="n14" xy="31,118" size="153,237" url="ui://ahvpgb8npvwqo" fill="scaleNoBorder">
+      <gearDisplay controller="task1" pages="7"/>
+      <gearIcon controller="finish1" pages="1" values="ui://ahvpgb8npvwqo" default="ui://ahvpgb8ni6rge"/>
+    </loader>
+    <loader id="n15_i6rg" name="n15" xy="257,118" size="153,237" url="ui://ahvpgb8npvwqn" fill="scaleNoBorder">
+      <gearDisplay controller="task2" pages="0"/>
+      <gearIcon controller="finish2" pages="0,1" values="ui://ahvpgb8ni6rgg|ui://ahvpgb8npvwqn"/>
+    </loader>
+    <loader id="n16_i6rg" name="n16" xy="483,118" size="153,237" url="ui://ahvpgb8npvwql" fill="scaleNoBorder">
+      <gearDisplay controller="task3" pages="0"/>
+      <gearIcon controller="finish3" pages="0,1" values="ui://ahvpgb8ni6rgi|ui://ahvpgb8npvwql"/>
+    </loader>
+    <loader id="n17_pvwq" name="n17" xy="31,117" size="153,237" url="ui://ahvpgb8npvwqp" fill="scaleNoBorder">
+      <gearDisplay controller="task1" pages="8"/>
+      <gearIcon controller="finish1" pages="0,1" values="ui://ahvpgb8ni6rgf|ui://ahvpgb8npvwqp"/>
+    </loader>
+    <loader id="n18_pvwq" name="n18" xy="257,117" size="153,237" url="ui://ahvpgb8npvwqq" fill="scaleNoBorder">
+      <gearDisplay controller="task2" pages="1"/>
+      <gearIcon controller="finish2" pages="0,1" values="ui://ahvpgb8ni6rgh|ui://ahvpgb8npvwqq"/>
+    </loader>
+    <loader id="n19_pvwq" name="n19" xy="483,117" size="153,237" url="ui://ahvpgb8npvwqm" fill="scaleNoBorder">
+      <gearDisplay controller="task3" pages="1"/>
+      <gearIcon controller="finish3" pages="0,1" values="ui://ahvpgb8ni6rgj|ui://ahvpgb8npvwqm"/>
+    </loader>
+    <component id="n20_pvwq" name="n20" src="pvwqr" fileName="NormalButton.xml" xy="29,36" size="161,52">
+      <gearDisplay controller="finish1" pages="0"/>
+      <Button title="完成" controller="finish1" page="1"/>
+    </component>
+    <component id="n21_pvwq" name="n21" src="pvwqr" fileName="NormalButton.xml" xy="252,34" size="161,52">
+      <gearDisplay controller="finish2" pages="0"/>
+      <Button title="完成" controller="finish2" page="1"/>
+    </component>
+    <component id="n22_pvwq" name="n22" src="pvwqr" fileName="NormalButton.xml" xy="477,33" size="161,52">
+      <gearDisplay controller="finish3" pages="0"/>
+      <Button title="完成" controller="finish3" page="1"/>
+    </component>
+    <component id="n23_pvwq" name="n23" src="pvwqr" fileName="NormalButton.xml" xy="35,41" size="161,52">
+      <gearDisplay controller="finish1" pages="1"/>
+      <Button title="未完成" controller="finish1" page="0"/>
+    </component>
+    <component id="n24_pvwq" name="n24" src="pvwqr" fileName="NormalButton.xml" xy="258,39" size="161,52">
+      <gearDisplay controller="finish2" pages="1"/>
+      <Button title="未完成" controller="finish2" page="0"/>
+    </component>
+    <component id="n25_pvwq" name="n25" src="pvwqr" fileName="NormalButton.xml" xy="483,38" size="161,52">
+      <gearDisplay controller="finish3" pages="1"/>
+      <Button title="未完成" controller="finish3" page="0"/>
+    </component>
+  </displayList>
+</component>

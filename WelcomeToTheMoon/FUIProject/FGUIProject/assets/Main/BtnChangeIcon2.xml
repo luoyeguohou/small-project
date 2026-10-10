@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="18,19">
+  <controller name="icon" homePageType="specific" homePage="0" pages="0,,1," selected="1"/>
+  <controller name="iconType" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <loader id="n2_i6rg" name="icon" xy="0,0" size="18,19" url="ui://ahvpgb8ni6rg6" align="center" vAlign="middle" fill="scaleNoBorder">
+      <gearDisplay controller="icon" pages="1"/>
+      <gearDisplay2 controller="iconType" pages="0" condition="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <loader id="n6_l1ei" name="icon1" xy="0,0" size="18,19" url="ui://ahvpgb8ni6rg2" align="center" vAlign="middle" fill="scaleNoBorder">
+      <gearDisplay controller="icon" pages="1"/>
+      <gearDisplay2 controller="iconType" pages="1" condition="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n3_xx28" name="n3" src="i6rg9" fileName="Emp.xml" xy="0,0" size="18,19">
+      <gearDisplay controller="icon" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+      <Button controller="icon" page="1"/>
+    </component>
+    <component id="n5_xx28" name="n5" src="i6rg9" fileName="Emp.xml" xy="0,0" size="18,19">
+      <gearDisplay controller="icon" pages="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+      <Button controller="icon" page="0"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\WordStatistics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7308E1-C9F5-6441-7A4F-1BCD9E25B926}|Assembly-CSharp.csproj|c:\\projects\\wordstatistics\\assets\\streamingassets\\etherfield.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8E7308E1-C9F5-6441-7A4F-1BCD9E25B926}|Assembly-CSharp.csproj|solutionrelative:assets\\streamingassets\\etherfield.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7308E1-C9F5-6441-7A4F-1BCD9E25B926}|Assembly-CSharp.csproj|c:\\projects\\wordstatistics\\assets\\scripts\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E7308E1-C9F5-6441-7A4F-1BCD9E25B926}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "etherfield.txt",
+              "DocumentMoniker": "C:\\projects\\WordStatistics\\Assets\\StreamingAssets\\etherfield.txt",
+              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\etherfield.txt",
+              "ToolTip": "C:\\projects\\WordStatistics\\Assets\\StreamingAssets\\etherfield.txt",
+              "RelativeToolTip": "Assets\\StreamingAssets\\etherfield.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-23T01:16:02.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dealer.cs",
+              "DocumentMoniker": "C:\\projects\\WordStatistics\\Assets\\Scripts\\Dealer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dealer.cs",
+              "ToolTip": "C:\\projects\\WordStatistics\\Assets\\Scripts\\Dealer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dealer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAABcwBkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T03:47:12.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

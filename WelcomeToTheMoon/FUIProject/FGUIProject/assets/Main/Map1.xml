@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1483,1483" overflow="scroll" scroll="both" scrollBarFlags="400" scrollBar="hidden">
+  <displayList>
+    <image id="n0_i6rg" name="bg" src="i6rg1" fileName="map1.png" xy="0,0"/>
+    <text id="n112_i6rg" name="n0" xy="1348,191" size="66,62" fontSize="39" align="center" vAlign="middle" autoSize="shrink" text="" input="true" maxLength="3" keyboardType="4"/>
+    <text id="n1_i6rg" name="n1" xy="502,202" size="67,65" font="ui://ahvpgb8nug2u4j" fontSize="25" align="center" vAlign="middle" autoSize="none" bold="true" text="6" input="true" keyboardType="4"/>
+    <text id="n111_i6rg" name="n2" xy="1348,431" size="66,62" fontSize="39" align="center" vAlign="middle" autoSize="shrink" text="" input="true" maxLength="3" keyboardType="4"/>
+    <text id="n3_i6rg" name="n3" xy="569,202" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n4_i6rg" name="n4" xy="637,203" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n5_i6rg" name="n5" xy="498,334" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n6_i6rg" name="n6" xy="565,334" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n7_i6rg" name="n7" xy="633,335" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n8_i6rg" name="n8" xy="570,470" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n9_i6rg" name="n9" xy="642,466" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n10_i6rg" name="n10" xy="714,462" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n11_i6rg" name="n11" xy="484,467" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n12_i6rg" name="n12" xy="413,465" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n13_i6rg" name="n13" xy="412,599" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n14_i6rg" name="n14" xy="477,601" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n15_i6rg" name="n15" xy="577,602" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n16_i6rg" name="n16" xy="642,604" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n17_i6rg" name="n17" xy="707,603" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n18_i6rg" name="n18" xy="435,734" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n19_i6rg" name="n19" xy="499,734" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n20_i6rg" name="n20" xy="565,736" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n21_i6rg" name="n21" xy="627,734" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n22_i6rg" name="n22" xy="693,734" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n23_i6rg" name="n23" xy="400,865" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n24_i6rg" name="n24" xy="467,868" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n25_i6rg" name="n25" xy="532,869" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n26_i6rg" name="n26" xy="598,869" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n27_i6rg" name="n27" xy="663,863" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n28_i6rg" name="n28" xy="727,864" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n29_i6rg" name="n29" xy="247,993" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n30_i6rg" name="n30" xy="310,997" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n31_i6rg" name="n31" xy="375,999" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n32_i6rg" name="n32" xy="443,1003" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n33_i6rg" name="n33" xy="509,1004" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n34_i6rg" name="n34" xy="604,1002" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n35_i6rg" name="n35" xy="678,1001" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n36_i6rg" name="n36" xy="772,1000" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n37_i6rg" name="n37" xy="840,998" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n38_i6rg" name="n38" xy="908,996" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n39_i6rg" name="n39" xy="294,1131" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n40_i6rg" name="n40" xy="360,1135" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n41_i6rg" name="n41" xy="454,1139" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n42_i6rg" name="n42" xy="519,1141" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n43_i6rg" name="n43" xy="613,1141" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n44_i6rg" name="n44" xy="679,1141" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n45_i6rg" name="n45" xy="769,1135" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n46_i6rg" name="n46" xy="833,1132" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n47_i6rg" name="n47" xy="293,1258" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n48_i6rg" name="n48" xy="362,1263" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n49_i6rg" name="n49" xy="453,1267" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n50_i6rg" name="n50" xy="522,1268" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" keyboardType="4"/>
+    <text id="n51_i6rg" name="n51" xy="612,1265" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" maxLength="2" keyboardType="4"/>
+    <text id="n52_i6rg" name="n52" xy="678,1267" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" maxLength="2" keyboardType="4"/>
+    <text id="n53_i6rg" name="n53" xy="765,1263" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" maxLength="2" keyboardType="4"/>
+    <text id="n54_i6rg" name="n54" xy="833,1258" size="67,65" fontSize="39" align="center" vAlign="middle" autoSize="none" text="" input="true" maxLength="2" keyboardType="4"/>
+    <component id="n55_i6rg" name="n55" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="619,285" size="25,25"/>
+    <component id="n57_i6rg" name="n57" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="719,412" size="25,25"/>
+    <component id="n58_i6rg" name="n58" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="566,687" size="25,25"/>
+    <component id="n59_i6rg" name="n59" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="559,817" size="25,25"/>
+    <component id="n60_i6rg" name="n60" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="382,945" size="25,25"/>
+    <component id="n61_i6rg" name="n61" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="407,1087" size="25,25"/>
+    <component id="n62_i6rg" name="n62" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="712,1089" size="25,25"/>
+    <component id="n56_i6rg" name="n56" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1015,408" size="50,53" controller="iconType,1"/>
+    <component id="n110_i6rg" name="n63" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1287,238" size="35,35" controller="iconType,1"/>
+    <component id="n64_i6rg" name="n64" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1100,409" size="50,53" controller="iconType,1"/>
+    <component id="n65_i6rg" name="n65" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1185,407" size="50,53" controller="iconType,1"/>
+    <component id="n66_i6rg" name="n66" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1271,407" size="50,53" controller="iconType,1"/>
+    <component id="n67_i6rg" name="n67" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1227,470" size="50,53" controller="iconType,1"/>
+    <component id="n68_i6rg" name="n68" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1142,470" size="50,53" controller="iconType,1"/>
+    <component id="n69_i6rg" name="n69" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1058,469" size="50,53" controller="iconType,1"/>
+    <component id="n70_i6rg" name="n70" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="972,466" size="50,53" controller="iconType,1"/>
+    <component id="n71_i6rg" name="n71" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1136,1381" size="35,35" controller="iconType,1"/>
+    <component id="n72_i6rg" name="n72" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1176,1380" size="35,35" controller="iconType,1"/>
+    <component id="n73_i6rg" name="n73" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1217,1380" size="35,35" controller="iconType,1"/>
+    <component id="n74_i6rg" name="n74" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1254,1379" size="35,35" controller="iconType,1"/>
+    <component id="n75_i6rg" name="n75" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1295,1377" size="35,35" controller="iconType,1"/>
+    <component id="n76_i6rg" name="n76" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1157,1309" size="35,35" controller="iconType,1"/>
+    <component id="n77_i6rg" name="n77" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1198,1310" size="35,35" controller="iconType,1"/>
+    <component id="n78_i6rg" name="n78" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1236,1309" size="35,35" controller="iconType,1"/>
+    <component id="n79_i6rg" name="n79" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1276,1308" size="35,35" controller="iconType,1"/>
+    <component id="n80_i6rg" name="n80" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1176,1228" size="35,35" controller="iconType,1"/>
+    <component id="n81_i6rg" name="n81" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1217,1229" size="35,35" controller="iconType,1"/>
+    <component id="n82_i6rg" name="n82" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1255,1228" size="35,35" controller="iconType,1"/>
+    <component id="n109_i6rg" name="n83" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1247,237" size="35,35" controller="iconType,1"/>
+    <component id="n84_i6rg" name="n84" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1176,1153" size="35,35" controller="iconType,1"/>
+    <component id="n85_i6rg" name="n85" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1217,1154" size="35,35" controller="iconType,1"/>
+    <component id="n86_i6rg" name="n86" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1255,1153" size="35,35" controller="iconType,1"/>
+    <component id="n87_i6rg" name="n87" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1176,1072" size="35,35" controller="iconType,1"/>
+    <component id="n88_i6rg" name="n88" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1217,1073" size="35,35" controller="iconType,1"/>
+    <component id="n89_i6rg" name="n89" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1255,1072" size="35,35" controller="iconType,1"/>
+    <component id="n90_i6rg" name="n90" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1175,999" size="35,35" controller="iconType,1"/>
+    <component id="n91_i6rg" name="n91" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1216,1000" size="35,35" controller="iconType,1"/>
+    <component id="n92_i6rg" name="n92" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1254,999" size="35,35" controller="iconType,1"/>
+    <component id="n93_i6rg" name="n93" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1176,927" size="35,35" controller="iconType,1"/>
+    <component id="n94_i6rg" name="n94" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1217,928" size="35,35" controller="iconType,1"/>
+    <component id="n95_i6rg" name="n95" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1255,927" size="35,35" controller="iconType,1"/>
+    <component id="n96_i6rg" name="n96" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1176,850" size="35,35" controller="iconType,1"/>
+    <component id="n97_i6rg" name="n97" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1217,851" size="35,35" controller="iconType,1"/>
+    <component id="n98_i6rg" name="n98" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1255,850" size="35,35" controller="iconType,1"/>
+    <component id="n99_i6rg" name="n99" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1198,772" size="35,35" controller="iconType,1"/>
+    <component id="n100_i6rg" name="n100" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1236,774" size="35,35" controller="iconType,1"/>
+    <component id="n101_i6rg" name="n101" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1198,698" size="35,35" controller="iconType,1"/>
+    <component id="n102_i6rg" name="n102" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1236,697" size="35,35" controller="iconType,1"/>
+    <component id="n103_i6rg" name="n103" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1170,178" size="35,35" controller="iconType,1"/>
+    <component id="n104_i6rg" name="n104" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1209,180" size="35,35" controller="iconType,1"/>
+    <component id="n105_i6rg" name="n105" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1248,180" size="35,35" controller="iconType,1"/>
+    <component id="n106_i6rg" name="n106" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1287,179" size="35,35" controller="iconType,1"/>
+    <component id="n107_i6rg" name="n107" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1169,237" size="35,35" controller="iconType,1"/>
+    <component id="n108_i6rg" name="n108" src="i6rg8" fileName="BtnChangeIcon2.xml" xy="1209,238" size="35,35" controller="iconType,1"/>
+    <component id="n115_i6rg" name="n109" src="i6rga" fileName="BtnChangeIcon3.xml" xy="1089,69" size="59,59"/>
+    <component id="n116_i6rg" name="n110" src="i6rga" fileName="BtnChangeIcon3.xml" xy="1162,70" size="59,59"/>
+    <component id="n114_i6rg" name="n111" src="i6rga" fileName="BtnChangeIcon3.xml" xy="1016,70" size="59,59"/>
+  </displayList>
+</component>
